@@ -1,0 +1,6 @@
+{
+  "name": "VOYA",
+  "description": "Autonomous Travel Operations Dashboard featuring Planner, Monitor, Decision, and Execution agents with VYRA conversational AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
